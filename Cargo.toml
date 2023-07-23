@@ -1,0 +1,9 @@
+[package]
+name = "ugit"
+description = "A wrapper around Git that better matches your workflow. :3"
+version = "0.0.1"
+edition = "2021"
+authors = ["Lucas Bob <lucas@pixelized.studio>"]
+
+[dependencies]
+clap = "4.3.19"
